@@ -13,6 +13,7 @@
 		06B6F53E27522C2100A514E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06B6F53C27522C2100A514E8 /* Main.storyboard */; };
 		06B6F54027522C2300A514E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06B6F53F27522C2300A514E8 /* Assets.xcassets */; };
 		06B6F54327522C2300A514E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06B6F54127522C2300A514E8 /* LaunchScreen.storyboard */; };
+		06B6F54B2752336B00A514E8 /* CurtainImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B6F54A2752336B00A514E8 /* CurtainImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		06B6F53F27522C2300A514E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		06B6F54227522C2300A514E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		06B6F54427522C2300A514E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		06B6F54A2752336B00A514E8 /* CurtainImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurtainImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				06B6F53627522C2100A514E8 /* AppDelegate.swift */,
 				06B6F53827522C2100A514E8 /* SceneDelegate.swift */,
 				06B6F53A27522C2100A514E8 /* ViewController.swift */,
+				06B6F54A2752336B00A514E8 /* CurtainImageView.swift */,
 				06B6F53C27522C2100A514E8 /* Main.storyboard */,
 				06B6F53F27522C2300A514E8 /* Assets.xcassets */,
 				06B6F54127522C2300A514E8 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06B6F53B27522C2100A514E8 /* ViewController.swift in Sources */,
+				06B6F54B2752336B00A514E8 /* CurtainImageView.swift in Sources */,
 				06B6F53727522C2100A514E8 /* AppDelegate.swift in Sources */,
 				06B6F53927522C2100A514E8 /* SceneDelegate.swift in Sources */,
 			);
